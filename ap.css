@@ -10,7 +10,7 @@ h1 {
     background-color: rgb(181, 184, 142);
 }
 
-h3 {
+.friend h3 {
     text-transform: uppercase;
     color: rgb(122, 120, 241)
 }
